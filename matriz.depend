@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490899537 source:c:\users\gabryel\desktop\codeblocks projetos\matriz\main.cpp
+	<iostream>
+	<stdlib.h>
+	"pilha.h"
+
+1490897435 c:\users\gabryel\desktop\codeblocks projetos\matriz\pilha.h
+
